@@ -43,7 +43,7 @@ while num < 1:
         gem = gem + 1
         print(f'+ 1 gem You have {gem} gems.')
     elif cmd == 'start':
-        print(f'''Welcome please red the following
+        print(f'''Welcome, please read the following
         Your progress will NOT be saved
         If you go negative gems GAME OVER
         Possible commands:
